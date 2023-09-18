@@ -1,0 +1,32 @@
+.img img{
+    width: 250px;
+    border-radius: 20px;
+}
+body{
+    background-color: #aeaeae;
+}
+.main {
+    width: 280px;
+    margin: 150px auto;
+    background-color: rgb(255, 255, 255);
+    height: 450px;
+    border-radius: 25px;
+    
+}
+.qr-code{
+    margin:  auto;
+    width: 250px;
+    padding: 15px;
+
+}
+.footer p {
+    text-align: center;
+    color: #7b7b7b;
+}
+.section p{
+    font-weight: bolder;
+    text-align: center;
+}
+.section{
+    margin-top: 20px;
+}
